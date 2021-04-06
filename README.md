@@ -1,2 +1,4 @@
 # Wizspace
-An ITCC Final Project Application
+(Disclaimer: This is not a fully functional program. However, it comes with a database file to allow users to store informations inside the program. This program also features a log-in functionality and displays information on its homepage. The user can also be able to perform a walkthrough on all the pages available within the program.)
+
+This is our final group project of our ITCC 11 ( Event-Driven Programming ) course. Wizspace is a Java Program GUI created to provide information directly to students under our college. It stores student information with the help of a database and displays all of it once the user is registered. Wizspace allows students to monitor organizational updates for them to be updated on events and announcements made by their respective organizations. Wizspace also provides update from the college administrators through the CSS Admin updates Window. 
